@@ -1,0 +1,15 @@
+{
+  "name": "kodilla_9.2_tablice",
+  "version": "1.0.0",
+  "description": "task_kodilla_9.2_tablice",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "domaslawski",
+  "license": "ISC"
+}
